@@ -1,0 +1,4 @@
+ffmpeg-python
+requests
+
+https://edu-bg.org/playback/presentation/2.0/playback.html?meetingId=678a00f152b2de2cd6b6bedf6179c8258f5b6a25-1592585420368
